@@ -1,0 +1,3 @@
+比如，让Git显示颜色，会让命令输出看起来更醒目：
+
+$ git config --global color.ui true
